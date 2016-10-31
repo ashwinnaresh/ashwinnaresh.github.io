@@ -1,0 +1,31 @@
+.blue-hr
+{
+	height:5px;
+	border:none;
+	color:black;
+	background-color:black;
+}
+
+.white-hr
+{
+	height:3px;
+	border:none;
+	color:#0a2249;
+	background-color:#0a2249;
+}
+
+.grey-hr
+{
+	height:2px;
+	border:none;
+	color:#93928f;
+	background-color:#93928f;
+}
+
+.light-grey-hr
+{
+	height:2px;
+	border:none;
+	color:#babfc6;
+	background-color:#babfc6;
+}
